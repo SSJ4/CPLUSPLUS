@@ -1,0 +1,3 @@
+﻿  Commander.cpp
+d:\programming\project1\mapping\mapping\commander.cpp(18): warning C4101: 'pause': unreferenced local variable
+  Mapping.vcxproj -> D:\Programming\Project1\Mapping\Debug\Mapping.exe
